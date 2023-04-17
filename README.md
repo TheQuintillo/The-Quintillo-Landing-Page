@@ -31,4 +31,4 @@ Inside of your Astro project, you'll see the following folders and files:
 Landing page con ```@tailwindCSS``` y ```@Flow Bite```, componentes y diseño de estas dos herramientas.
 
 ## [PortFolio TheQuintillo.es](https://thequintillo.es)
-[![HvvxPqB.th.jpg](https://iili.io/HvvxPqB.th.jpg)](https://freeimage.host/i/HvvxPqB)
+[![HvvxPqB.md.jpg](https://iili.io/HvvxPqB.md.jpg)](https://freeimage.host/i/HvvxPqB)
