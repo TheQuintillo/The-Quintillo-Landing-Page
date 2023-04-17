@@ -1,0 +1,26 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+	<title>Proyecto nuevo</title>
+	<defs>
+		<image  width="500" height="500" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAfQAAAH0AQMAAADxGE3JAAAAAXNSR0IB2cksfwAAAANQTFRFAAAAp3o92gAAAAF0Uk5TAEDm2GYAAAA1SURBVHic7cExAQAAAMKg9U/tYQ2gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAG59AAABhRLY9gAAAABJRU5ErkJggg=="/>
+		<linearGradient id="g1" x1="91" y1="279" x2="91" y2="13" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="120.5" y1="279" x2="120.5" y2="13" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff"/>
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 350px;fill:  url(#g1);font-weight: 400;font-family: "NovaSquare", "Nova Square" } 
+		.t1 { font-size: 350px;fill:  url(#g2);font-weight: 400;font-family: "NovaSquare", "Nova Square" } 
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+	<text id="T" style="transform: matrix(1,0,0,1,86,48);paint-order:stroke fill markers;stroke: #000000;stroke-width: 16;stroke-linejoin: round;" >
+		<tspan x="0" y="271.7" class="t0">T
+</tspan>
+	</text>
+	<text id="Q" style="transform: matrix(1,0,0,1,190,123);paint-order:stroke fill markers;stroke: #000000;stroke-width: 16;stroke-linejoin: round;" >
+		<tspan x="0" y="271.7" class="t1">Q
+</tspan>
+	</text>
+</svg>
