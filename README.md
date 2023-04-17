@@ -3,7 +3,7 @@
 
 > 🧑‍🚀 **Proyecto en desarrollo**
 
-## 🚀 Project Structure
+## 🚀 Estructura del proyecto
 
 Inside of your Astro project, you'll see the following folders and files:
 
